@@ -1,5 +1,5 @@
-const isIsland = true;
-const language = 0;
+let isIsland = true;
+let language;
 console.log(typeof isIsland);
 console.log(typeof population);
 console.log(typeof country);
